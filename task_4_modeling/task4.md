@@ -22,8 +22,7 @@ The modeling process followed a structured pipeline:
    - Established a benchmark for accuracy, precision, recall, and f1.  
    - Highlighted the importance of moving beyond trivial models.
 
-3. **Model Training**  
-   - **Logistic Regression**: fast, interpretable baseline.  
+3. **Model Training**    
    - **Decision Tree**: simple non-linear model to capture interactions.  
    - **Random Forest**: ensemble approach, more robust against variance.  
    - All models trained on balanced data and evaluated on the test set.
