@@ -72,7 +72,7 @@ The goal: **analyze churn, build predictive models, and deliver business recomme
 - **Task 1 – Business Understanding** → Framed churn as a price sensitivity problem & outlined data needs.  
 - **Task 2 – EDA** → Cleaned messy data, found churn rate ~10%, and identified sales channel & contract type as key drivers.  
 - **Task 3 – Feature Engineering** → Applied log transforms, one-hot encoding, and date-derived features for model readiness.  
-- **Task 4 – Modeling** → Built Logistic Regression, Decision Tree, and Random Forest; **Random Forest achieved ~50% recall**, the key business metric.  
+- **Task 4 – Modeling** → Built Decision Tree, and Random Forest; **Random Forest achieved ~50% recall**, the key business metric.  
 - **Task 5 – Executive Summary** → Consolidated findings into a client-facing recommendation for PowerCo.  
 
 ---
